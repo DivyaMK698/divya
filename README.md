@@ -1,4 +1,4 @@
 # divya
 this is my first git repo.its a rainy day
 <br>
-auhtor:divya m kumar
+auhtor:divya m k
